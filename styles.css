@@ -1,0 +1,8 @@
+#messages {
+    display: flex;
+    margin: 2px;
+}
+
+.message {
+    margin: 2px;
+}
